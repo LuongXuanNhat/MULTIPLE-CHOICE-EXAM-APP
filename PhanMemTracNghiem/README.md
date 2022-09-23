@@ -1,2 +1,0 @@
-# PhanMemTracNghiem
-Code C#
