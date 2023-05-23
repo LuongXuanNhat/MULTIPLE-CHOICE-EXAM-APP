@@ -15,7 +15,7 @@ Giảng viên dễ dàng quản lý các câu hỏi, đề thi thông qua hệ t
 Người quản trị (Admin) sẽ có chức năng: quản lý người dùng (Sửa thông tin người dùng, thêm người dùng (phân quyền tài khoản: Giảng viên/sinh viên). Chức năng quản lý hệ thống: Quản lý dữ liệu ( sao lưu, phục hồi dữ liệu ..). Admin có thể tạo kỳ thi và các chức năng quản lý đề thi (thêm, xóa, sửa).</p>
 </div>
 
-<h3> ERD Diagram </h3>
+<h3> Use Case Diagram </h3>
 <img src="https://github.com/LuongXuanNhat/MULTIPLE-CHOICE-EXAM-APP/assets/96036623/985fe26e-243b-4431-9cdd-6546b9f6a674" />
 
 <h3> ERD Diagram </h3>
