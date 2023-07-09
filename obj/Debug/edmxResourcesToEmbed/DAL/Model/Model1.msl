@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PHANMEMTHITRACNGHIEMModelStoreContainer" CdmEntityContainer="PHANMEMTHITRACNGHIEMEntities">
+    <EntitySetMapping Name="BANGDIEMs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.BANGDIEM">
+        <MappingFragment StoreEntitySet="BANGDIEM">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DIEM" ColumnName="DIEM" />
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="MAKITHI" ColumnName="MAKITHI" />
+          <ScalarProperty Name="MAMT" ColumnName="MAMT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CAUHOIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.CAUHOI">
+        <MappingFragment StoreEntitySet="CAUHOI">
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="MACAUHOI" ColumnName="MACAUHOI" />
+          <ScalarProperty Name="NDCAUHOI" ColumnName="NDCAUHOI" />
+          <ScalarProperty Name="DAPAN1" ColumnName="DAPAN1" />
+          <ScalarProperty Name="DAPAN2" ColumnName="DAPAN2" />
+          <ScalarProperty Name="DAPAN3" ColumnName="DAPAN3" />
+          <ScalarProperty Name="DAPAN4" ColumnName="DAPAN4" />
+          <ScalarProperty Name="DAPANDUNG" ColumnName="DAPANDUNG" />
+          <ScalarProperty Name="MAGV" ColumnName="MAGV" />
+          <ScalarProperty Name="MAMT" ColumnName="MAMT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETDETHIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.CHITIETDETHI">
+        <MappingFragment StoreEntitySet="CHITIETDETHI">
+          <ScalarProperty Name="MADETHI" ColumnName="MADETHI" />
+          <ScalarProperty Name="MACAUHOI" ColumnName="MACAUHOI" />
+          <ScalarProperty Name="MUCDO" ColumnName="MUCDO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETKYTHIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.CHITIETKYTHI">
+        <MappingFragment StoreEntitySet="CHITIETKYTHI">
+          <ScalarProperty Name="MAKITHI" ColumnName="MAKITHI" />
+          <ScalarProperty Name="MAMT" ColumnName="MAMT" />
+          <ScalarProperty Name="DIEM" ColumnName="DIEM" />
+          <ScalarProperty Name="THOIGIANTHI" ColumnName="THOIGIANTHI" />
+          <ScalarProperty Name="THOIGIANBD" ColumnName="THOIGIANBD" />
+          <ScalarProperty Name="THOIGIANKT" ColumnName="THOIGIANKT" />
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DETHIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.DETHI">
+        <MappingFragment StoreEntitySet="DETHI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MADETHI" ColumnName="MADETHI" />
+          <ScalarProperty Name="MAKITHI" ColumnName="MAKITHI" />
+          <ScalarProperty Name="MAMT" ColumnName="MAMT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GIANGVIENs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.GIANGVIEN">
+        <MappingFragment StoreEntitySet="GIANGVIEN">
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="MAGV" ColumnName="MAGV" />
+          <ScalarProperty Name="TENGV" ColumnName="TENGV" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KITHIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.KITHI">
+        <MappingFragment StoreEntitySet="KITHI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="MAKITHI" ColumnName="MAKITHI" />
+          <ScalarProperty Name="TENKITHI" ColumnName="TENKITHI" />
+          <ScalarProperty Name="ADMIN" ColumnName="ADMIN" />
+          <ScalarProperty Name="THOIGIANBDKITHI" ColumnName="THOIGIANBDKITHI" />
+          <ScalarProperty Name="THOIGIANKTKITHI" ColumnName="THOIGIANKTKITHI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MONTHIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.MONTHI">
+        <MappingFragment StoreEntitySet="MONTHI">
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="MAMT" ColumnName="MAMT" />
+          <ScalarProperty Name="TENMT" ColumnName="TENMT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUANTRIs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.QUANTRI">
+        <MappingFragment StoreEntitySet="QUANTRI">
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="ADMIN" ColumnName="ADMIN" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SINHVIENs">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.SINHVIEN">
+        <MappingFragment StoreEntitySet="SINHVIEN">
+          <ScalarProperty Name="STT" ColumnName="STT" />
+          <ScalarProperty Name="MASV" ColumnName="MASV" />
+          <ScalarProperty Name="LOP" ColumnName="LOP" />
+          <ScalarProperty Name="TENSV" ColumnName="TENSV" />
+          <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="PHANMEMTHITRACNGHIEMModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ThiTracNghiem",
+    "\\UI",
+    "\\UI\\SinhVien"
   ],
-  "SelectedNode": "\\PhanMemThiTracNghiem.sln",
+  "SelectedNode": "\\UI\\SinhVien\\frmSinhVien.cs",
   "PreviewInSolutionExplorer": false
 }

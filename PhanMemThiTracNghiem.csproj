@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -12,6 +13,8 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,10 +37,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=6.0.8.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.6.0.8\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.Interfaces.6.0.0\lib\net452\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.0.0.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.System.Drawing.6.0.0\lib\net452\EPPlus.System.Drawing.dll</HintPath>
     </Reference>
     <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
       <HintPath>packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
@@ -48,12 +60,53 @@
     <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
       <HintPath>packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=2.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IO.RecyclableMemoryStream.2.2.1\lib\net462\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
     <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -63,49 +116,211 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Z.Dapper.Plus, Version=4.0.33.0, Culture=neutral, PublicKeyToken=59b66d028979105b, processorArchitecture=MSIL">
-      <HintPath>packages\Z.Dapper.Plus.4.0.33\lib\net45\Z.Dapper.Plus.dll</HintPath>
+    <Reference Include="Z.Dapper.Plus, Version=4.0.34.0, Culture=neutral, PublicKeyToken=59b66d028979105b, processorArchitecture=MSIL">
+      <HintPath>packages\Z.Dapper.Plus.4.0.34\lib\net45\Z.Dapper.Plus.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL\GIANGVIEN.cs" />
+    <Compile Include="BAL\BangDiemBAL.cs" />
+    <Compile Include="BAL\CauHoiBAL.cs" />
+    <Compile Include="BAL\ChiTietDeThiBAL.cs" />
+    <Compile Include="BAL\ChiTietKyThiBAL.cs" />
+    <Compile Include="BAL\KyThiBAL.cs" />
+    <Compile Include="BAL\DeThiBAL.cs" />
+    <Compile Include="BAL\GiangVienBAL.cs" />
+    <Compile Include="BAL\MonThiBAL.cs" />
+    <Compile Include="BAL\QuanTriBAL.cs" />
+    <Compile Include="BAL\SinhVienBAL.cs" />
+    <Compile Include="DAL\BangDiemDAL.cs" />
+    <Compile Include="DAL\CauHoiDAL.cs" />
+    <Compile Include="DAL\ChiTietDeThiDAL.cs" />
+    <Compile Include="DAL\ChiTietKyThiDAL.cs" />
+    <Compile Include="DAL\KyThiDAL.cs" />
+    <Compile Include="DAL\DeThiDAL.cs" />
+    <Compile Include="DAL\DTO\CauHoiDTO.cs" />
+    <Compile Include="DAL\DTO\GiangVienDTO.cs" />
+    <Compile Include="DAL\DTO\SinhVienDTO.cs" />
     <Compile Include="DAL\GiangVienDAL.cs" />
-    <Compile Include="frmLogin.cs">
-      <SubType>Form</SubType>
+    <Compile Include="DAL\Model\BANGDIEM.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="frmLogin.Designer.cs">
-      <DependentUpon>frmLogin.cs</DependentUpon>
+    <Compile Include="DAL\Model\CAUHOI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
-    <Compile Include="PHANMEMTHITNDataSet.Designer.cs">
+    <Compile Include="DAL\Model\CHITIETDETHI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\CHITIETKYTHI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\DETHI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\GIANGVIEN.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\KITHI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\Model1.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>PHANMEMTHITNDataSet.xsd</DependentUpon>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\MONTHI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\QUANTRI.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\SINHVIEN.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Model\sysdiagram.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\MonThiDAL.cs" />
+    <Compile Include="DAL\QuanTriDAL.cs" />
+    <Compile Include="DAL\SinhVienDAL.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UI\Admin\DanhSachGiangVien\NhapExcelGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachGiangVien\NhapExcelGiangVien.Designer.cs">
+      <DependentUpon>NhapExcelGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachGiangVien\ThemMotGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachGiangVien\ThemMotGiangVien.Designer.cs">
+      <DependentUpon>ThemMotGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachSinhVien\NhapExcelSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachSinhVien\NhapExcelSinhVien.Designer.cs">
+      <DependentUpon>NhapExcelSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachSinhVien\ThemMotSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admin\DanhSachSinhVien\ThemMotSinhVien.Designer.cs">
+      <DependentUpon>ThemMotSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Admin\frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Admin\frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\GiangVien\frmGiangVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GiangVien\frmGiangVien.Designer.cs">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SinhVien\BANGDIEMreport.cs" />
+    <Compile Include="UI\SinhVien\frmBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SinhVien\frmBangDiem.Designer.cs">
+      <DependentUpon>frmBangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SinhVien\frmSinhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SinhVien\frmSinhVien.Designer.cs">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SinhVien\frmThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SinhVien\frmThi.Designer.cs">
+      <DependentUpon>frmThi.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmLogin.resx">
+    <Compile Include="UI\SinhVien\ThiTracNghiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SinhVien\ThiTracNghiem.Designer.cs">
+      <DependentUpon>ThiTracNghiem.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\Admin\DanhSachGiangVien\NhapExcelGiangVien.resx">
+      <DependentUpon>NhapExcelGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admin\DanhSachGiangVien\ThemMotGiangVien.resx">
+      <DependentUpon>ThemMotGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admin\DanhSachSinhVien\NhapExcelSinhVien.resx">
+      <DependentUpon>NhapExcelSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admin\DanhSachSinhVien\ThemMotSinhVien.resx">
+      <DependentUpon>ThemMotSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Admin\frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\GiangVien\frmGiangVien.resx">
+      <DependentUpon>frmGiangVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SinhVien\frmBangDiem.resx">
+      <DependentUpon>frmBangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SinhVien\frmSinhVien.resx">
+      <DependentUpon>frmSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SinhVien\frmThi.resx">
+      <DependentUpon>frmThi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="UI\SinhVien\ReportBangDiem.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SinhVien\ThiTracNghiem.resx">
+      <DependentUpon>ThiTracNghiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="DAL\Model\Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DAL\Model\Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
-    <None Include="PHANMEMTHITNDataSet.xsc">
-      <DependentUpon>PHANMEMTHITNDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="PHANMEMTHITNDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>PHANMEMTHITNDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="PHANMEMTHITNDataSet.xss">
-      <DependentUpon>PHANMEMTHITNDataSet.xsd</DependentUpon>
-    </None>
+    <None Include="Properties\DataSources\PhanMemThiTracNghiem.UI.SinhVien.BANGDIEMreport.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -119,10 +334,97 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\PageLogin\cross.png" />
+    <Folder Include="Resources\PageLogin\" />
+    <Folder Include="UI\Admin\DeThi\" />
+    <Folder Include="UI\Admin\KyThi\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\PageLogin\minus .png" />
+    <None Include="Resources\SL_101619_24150_12 [Converted]-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SL_1rted]-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SL_1rted]-011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SL_1rted]-01 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rankings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rankings %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rankings %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exam-results.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinhvien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinhvien copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5997673-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5997-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5997-01-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right-arrow.png" />
+    <None Include="Resources\right-arrow %281%29.png" />
+    <None Include="Resources\right-arrow1.png" />
+    <None Include="Resources\right-arrow %281%291.png" />
+    <Content Include="DAL\Model\Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DAL\Model\Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
 </Project>

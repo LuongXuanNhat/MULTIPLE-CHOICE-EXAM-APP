@@ -22,3 +22,563 @@ C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNgh
 C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.dll
 C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.xml
 C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.exe
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.pdb
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\PhanMemThiTracNghiem.exe.config
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\PhanMemThiTracNghiem.exe
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\PhanMemThiTracNghiem.pdb
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\EntityFramework.dll
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\ExcelDataReader.DataSet.dll
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\ExcelDataReader.dll
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\Guna.UI2.dll
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.dll
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\EntityFramework.xml
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\ExcelDataReader.pdb
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\ExcelDataReader.xml
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\ExcelDataReader.DataSet.xml
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.xml
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+D:\BTMONHOC\Nam3HK1\LapTrinhUngDungTrenWindow\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\PhanMemThiTracNghiem.exe.config
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\PhanMemThiTracNghiem.exe
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\PhanMemThiTracNghiem.pdb
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.dll
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.SqlServer.dll
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.DataSet.dll
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.dll
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\Guna.UI2.dll
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\Z.Dapper.Plus.dll
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.xml
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.SqlServer.xml
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.pdb
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.xml
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.DataSet.xml
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\bin\Debug\Z.Dapper.Plus.xml
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.exe
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.pdb
+D:\BOOK HUTECH\3l\Công nghệ phần mềm\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\PhanMemThiTracNghiem.exe.config
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\PhanMemThiTracNghiem.exe
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.dll
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.dll
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\Guna.UI2.dll
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.xml
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.pdb
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.xml
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.exe
+C:\Users\Mai Chi Vy\OneDrive\Máy tính\PhanMemTracNghiem - Nhat\obj\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.SuggestedBindingRedirects.cache
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.NhapExcelGiangVien.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.ThemMotGiangVien.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.frmAdmin.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.exe
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\PhanMemThiTracNghiem.exe.config
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\PhanMemThiTracNghiem.exe
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.pdb
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\Guna.UI2.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.NhapExcelSinhVien.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.ThemMotSinhVien.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.GiangVien.frmGiangVien.resources
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Buffers.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Memory.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Buffers.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Memory.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chimc\OneDrive\Máy tính\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.NhapExcelGiangVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.ThemMotGiangVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.NhapExcelSinhVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.ThemMotSinhVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.Admin.frmAdmin.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.GiangVien.frmGiangVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.exe
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\PhanMemThiTracNghiem.exe.config
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\PhanMemThiTracNghiem.exe
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Guna.UI2.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Buffers.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Memory.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EPPlus.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Buffers.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Memory.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmSinhVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmBangDiem.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\RdlCompile.cache
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\obj\Debug\RdlCompile.compiled
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\EnvDTE.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\stdole.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem - Nhat (1)\bin\Debug\UI\SinhVien\ReportBangDiem.rdlc
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.NhapExcelGiangVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.ThemMotGiangVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.NhapExcelSinhVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.ThemMotSinhVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.Admin.frmAdmin.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.GiangVien.frmGiangVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmBangDiem.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmSinhVien.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\RdlCompile.cache
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\RdlCompile.compiled
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.exe
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\UI\SinhVien\ReportBangDiem.rdlc
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\PhanMemThiTracNghiem.exe.config
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\PhanMemThiTracNghiem.exe
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\PhanMemThiTracNghiem.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EntityFramework.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EPPlus.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ExcelDataReader.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Guna.UI2.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Buffers.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Memory.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EnvDTE.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\stdole.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EntityFramework.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\EPPlus.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ExcelDataReader.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ExcelDataReader.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Buffers.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Memory.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+C:\Users\Luongxuannhat\Desktop\PhanMemTracNghiem\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\UI\SinhVien\ReportBangDiem.rdlc
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\PhanMemThiTracNghiem.exe.config
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\PhanMemThiTracNghiem.exe
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\PhanMemThiTracNghiem.pdb
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.Interfaces.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.System.Drawing.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.DataSet.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Guna.UI2.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Buffers.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Memory.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Numerics.Vectors.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Z.Dapper.Plus.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EnvDTE.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\stdole.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.MSXML.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.pdb
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.DataSet.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Buffers.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Memory.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Numerics.Vectors.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Z.Dapper.Plus.xml
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.NhapExcelGiangVien.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.ThemMotGiangVien.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.NhapExcelSinhVien.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.ThemMotSinhVien.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.frmAdmin.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.GiangVien.frmGiangVien.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmBangDiem.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmSinhVien.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\RdlCompile.cache
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\RdlCompile.compiled
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.exe
+D:\BOOK HUTECH\3l\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.pdb
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\UI\SinhVien\ReportBangDiem.rdlc
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\PhanMemThiTracNghiem.exe.config
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\PhanMemThiTracNghiem.exe
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\PhanMemThiTracNghiem.pdb
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.Interfaces.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.System.Drawing.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.DataSet.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Guna.UI2.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Buffers.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Memory.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Numerics.Vectors.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Z.Dapper.Plus.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EnvDTE.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\stdole.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.MSXML.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\EPPlus.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.pdb
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ExcelDataReader.DataSet.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Buffers.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Memory.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Numerics.Vectors.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\Z.Dapper.Plus.xml
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.AssemblyReference.cache
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.NhapExcelGiangVien.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachGiangVien.ThemMotGiangVien.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.NhapExcelSinhVien.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.DanhSachSinhVien.ThemMotSinhVien.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.Admin.frmAdmin.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.frmLogin.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.GiangVien.frmGiangVien.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmBangDiem.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.UI.SinhVien.frmSinhVien.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.frmThi.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.Properties.Resources.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.ThiTracNghiem.resources
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.GenerateResource.cache
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\RdlCompile.cache
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\RdlCompile.compiled
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.CoreCompileInputs.cache
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.csproj.CopyComplete
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.exe
+D:\BOOK HUTECH\3I\Lập trình trên môi trường windows\PhanMemTracNghiem - FINAL\obj\Debug\PhanMemThiTracNghiem.pdb

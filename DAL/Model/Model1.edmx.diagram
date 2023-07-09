@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7d627f13b38f4aa69301513fe43e11d7" Name="Diagram1">
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.BANGDIEM" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.CAUHOI" Width="1.5" PointX="3" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.CHITIETDETHI" Width="1.5" PointX="5.25" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.CHITIETKYTHI" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.DETHI" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.GIANGVIEN" Width="1.5" PointX="0.75" PointY="15.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.KITHI" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.MONTHI" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.QUANTRI" Width="1.5" PointX="1.5" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.SINHVIEN" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="PHANMEMTHITRACNGHIEMModel.sysdiagram" Width="1.5" PointX="7.75" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK_BANGDIEM_CHITIETKYTHI" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK__CAUHOI__MAGV__6EC0713C" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK__CHITIETDE__MACAU__55F4C372" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK__CHITIETDE__MADET__55009F39" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK__CHITIETKY__MAKIT__31B762FC" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK__CHITIETKYT__MAMT__32AB8735" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK_CHITIETKYTHI_SINHVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK__DETHI__MAMT__2EDAF651" ManuallyRouted="false" />
+        <AssociationConnector Association="PHANMEMTHITRACNGHIEMModel.FK_KITHI_QUANTRI" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

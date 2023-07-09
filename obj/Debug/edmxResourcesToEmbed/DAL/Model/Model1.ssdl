@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PHANMEMTHITRACNGHIEMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BANGDIEM">
+    <Key>
+      <PropertyRef Name="MASV" />
+      <PropertyRef Name="MAKITHI" />
+      <PropertyRef Name="MAMT" />
+    </Key>
+    <Property Name="ID" Type="int" />
+    <Property Name="DIEM" Type="float" />
+    <Property Name="MASV" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="MAKITHI" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="MAMT" Type="varchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CAUHOI">
+    <Key>
+      <PropertyRef Name="MACAUHOI" />
+    </Key>
+    <Property Name="STT" Type="int" Nullable="false" />
+    <Property Name="MACAUHOI" Type="int" Nullable="false" />
+    <Property Name="NDCAUHOI" Type="nvarchar" MaxLength="500" />
+    <Property Name="DAPAN1" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="DAPAN2" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="DAPAN3" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="DAPAN4" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="DAPANDUNG" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="MAGV" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="MAMT" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="CHITIETDETHI">
+    <Key>
+      <PropertyRef Name="MADETHI" />
+      <PropertyRef Name="MACAUHOI" />
+    </Key>
+    <Property Name="MADETHI" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MACAUHOI" Type="int" Nullable="false" />
+    <Property Name="MUCDO" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="CHITIETKYTHI">
+    <Key>
+      <PropertyRef Name="MAKITHI" />
+      <PropertyRef Name="MAMT" />
+      <PropertyRef Name="MASV" />
+    </Key>
+    <Property Name="MAKITHI" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="MAMT" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="DIEM" Type="float" />
+    <Property Name="THOIGIANTHI" Type="int" />
+    <Property Name="THOIGIANBD" Type="datetime" />
+    <Property Name="THOIGIANKT" Type="datetime" />
+    <Property Name="MASV" Type="varchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DETHI">
+    <Key>
+      <PropertyRef Name="MADETHI" />
+    </Key>
+    <Property Name="ID" Type="int" />
+    <Property Name="MADETHI" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MAKITHI" Type="varchar" MaxLength="11" />
+    <Property Name="MAMT" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="GIANGVIEN">
+    <Key>
+      <PropertyRef Name="MAGV" />
+    </Key>
+    <Property Name="STT" Type="int" />
+    <Property Name="MAGV" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="TENGV" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NGAYSINH" Type="date" Nullable="false" />
+    <Property Name="MATKHAU" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KITHI">
+    <Key>
+      <PropertyRef Name="MAKITHI" />
+    </Key>
+    <Property Name="ID" Type="int" />
+    <Property Name="MAKITHI" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="TENKITHI" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ADMIN" Type="varchar" MaxLength="20" />
+    <Property Name="THOIGIANBDKITHI" Type="datetime" />
+    <Property Name="THOIGIANKTKITHI" Type="datetime" />
+  </EntityType>
+  <EntityType Name="MONTHI">
+    <Key>
+      <PropertyRef Name="MAMT" />
+    </Key>
+    <Property Name="STT" Type="int" />
+    <Property Name="MAMT" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="TENMT" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="QUANTRI">
+    <Key>
+      <PropertyRef Name="ADMIN" />
+    </Key>
+    <Property Name="STT" Type="int" />
+    <Property Name="ADMIN" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="MATKHAU" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SINHVIEN">
+    <Key>
+      <PropertyRef Name="MASV" />
+    </Key>
+    <Property Name="STT" Type="int" Nullable="false" />
+    <Property Name="MASV" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="LOP" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TENSV" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NGAYSINH" Type="date" Nullable="false" />
+    <Property Name="MATKHAU" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__CAUHOI__MAGV__6EC0713C">
+    <End Role="GIANGVIEN" Type="Self.GIANGVIEN" Multiplicity="1" />
+    <End Role="CAUHOI" Type="Self.CAUHOI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GIANGVIEN">
+        <PropertyRef Name="MAGV" />
+      </Principal>
+      <Dependent Role="CAUHOI">
+        <PropertyRef Name="MAGV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CHITIETDE__MACAU__55F4C372">
+    <End Role="CAUHOI" Type="Self.CAUHOI" Multiplicity="1" />
+    <End Role="CHITIETDETHI" Type="Self.CHITIETDETHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CAUHOI">
+        <PropertyRef Name="MACAUHOI" />
+      </Principal>
+      <Dependent Role="CHITIETDETHI">
+        <PropertyRef Name="MACAUHOI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CHITIETDE__MADET__55009F39">
+    <End Role="DETHI" Type="Self.DETHI" Multiplicity="1" />
+    <End Role="CHITIETDETHI" Type="Self.CHITIETDETHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DETHI">
+        <PropertyRef Name="MADETHI" />
+      </Principal>
+      <Dependent Role="CHITIETDETHI">
+        <PropertyRef Name="MADETHI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CHITIETKY__MAKIT__31B762FC">
+    <End Role="KITHI" Type="Self.KITHI" Multiplicity="1" />
+    <End Role="CHITIETKYTHI" Type="Self.CHITIETKYTHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KITHI">
+        <PropertyRef Name="MAKITHI" />
+      </Principal>
+      <Dependent Role="CHITIETKYTHI">
+        <PropertyRef Name="MAKITHI" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CHITIETKYT__MAMT__32AB8735">
+    <End Role="MONTHI" Type="Self.MONTHI" Multiplicity="1" />
+    <End Role="CHITIETKYTHI" Type="Self.CHITIETKYTHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONTHI">
+        <PropertyRef Name="MAMT" />
+      </Principal>
+      <Dependent Role="CHITIETKYTHI">
+        <PropertyRef Name="MAMT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__DETHI__MAMT__2EDAF651">
+    <End Role="MONTHI" Type="Self.MONTHI" Multiplicity="0..1" />
+    <End Role="DETHI" Type="Self.DETHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MONTHI">
+        <PropertyRef Name="MAMT" />
+      </Principal>
+      <Dependent Role="DETHI">
+        <PropertyRef Name="MAMT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BANGDIEM_CHITIETKYTHI">
+    <End Role="CHITIETKYTHI" Type="Self.CHITIETKYTHI" Multiplicity="1" />
+    <End Role="BANGDIEM" Type="Self.BANGDIEM" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="CHITIETKYTHI">
+        <PropertyRef Name="MAKITHI" />
+        <PropertyRef Name="MAMT" />
+        <PropertyRef Name="MASV" />
+      </Principal>
+      <Dependent Role="BANGDIEM">
+        <PropertyRef Name="MAKITHI" />
+        <PropertyRef Name="MAMT" />
+        <PropertyRef Name="MASV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CHITIETKYTHI_SINHVIEN">
+    <End Role="SINHVIEN" Type="Self.SINHVIEN" Multiplicity="1" />
+    <End Role="CHITIETKYTHI" Type="Self.CHITIETKYTHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SINHVIEN">
+        <PropertyRef Name="MASV" />
+      </Principal>
+      <Dependent Role="CHITIETKYTHI">
+        <PropertyRef Name="MASV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KITHI_QUANTRI">
+    <End Role="QUANTRI" Type="Self.QUANTRI" Multiplicity="0..1" />
+    <End Role="KITHI" Type="Self.KITHI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUANTRI">
+        <PropertyRef Name="ADMIN" />
+      </Principal>
+      <Dependent Role="KITHI">
+        <PropertyRef Name="ADMIN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PHANMEMTHITRACNGHIEMModelStoreContainer">
+    <EntitySet Name="BANGDIEM" EntityType="Self.BANGDIEM" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CAUHOI" EntityType="Self.CAUHOI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CHITIETDETHI" EntityType="Self.CHITIETDETHI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CHITIETKYTHI" EntityType="Self.CHITIETKYTHI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DETHI" EntityType="Self.DETHI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GIANGVIEN" EntityType="Self.GIANGVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KITHI" EntityType="Self.KITHI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MONTHI" EntityType="Self.MONTHI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QUANTRI" EntityType="Self.QUANTRI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SINHVIEN" EntityType="Self.SINHVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__CAUHOI__MAGV__6EC0713C" Association="Self.FK__CAUHOI__MAGV__6EC0713C">
+      <End Role="GIANGVIEN" EntitySet="GIANGVIEN" />
+      <End Role="CAUHOI" EntitySet="CAUHOI" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CHITIETDE__MACAU__55F4C372" Association="Self.FK__CHITIETDE__MACAU__55F4C372">
+      <End Role="CAUHOI" EntitySet="CAUHOI" />
+      <End Role="CHITIETDETHI" EntitySet="CHITIETDETHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CHITIETDE__MADET__55009F39" Association="Self.FK__CHITIETDE__MADET__55009F39">
+      <End Role="DETHI" EntitySet="DETHI" />
+      <End Role="CHITIETDETHI" EntitySet="CHITIETDETHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CHITIETKY__MAKIT__31B762FC" Association="Self.FK__CHITIETKY__MAKIT__31B762FC">
+      <End Role="KITHI" EntitySet="KITHI" />
+      <End Role="CHITIETKYTHI" EntitySet="CHITIETKYTHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CHITIETKYT__MAMT__32AB8735" Association="Self.FK__CHITIETKYT__MAMT__32AB8735">
+      <End Role="MONTHI" EntitySet="MONTHI" />
+      <End Role="CHITIETKYTHI" EntitySet="CHITIETKYTHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK__DETHI__MAMT__2EDAF651" Association="Self.FK__DETHI__MAMT__2EDAF651">
+      <End Role="MONTHI" EntitySet="MONTHI" />
+      <End Role="DETHI" EntitySet="DETHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BANGDIEM_CHITIETKYTHI" Association="Self.FK_BANGDIEM_CHITIETKYTHI">
+      <End Role="CHITIETKYTHI" EntitySet="CHITIETKYTHI" />
+      <End Role="BANGDIEM" EntitySet="BANGDIEM" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CHITIETKYTHI_SINHVIEN" Association="Self.FK_CHITIETKYTHI_SINHVIEN">
+      <End Role="SINHVIEN" EntitySet="SINHVIEN" />
+      <End Role="CHITIETKYTHI" EntitySet="CHITIETKYTHI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KITHI_QUANTRI" Association="Self.FK_KITHI_QUANTRI">
+      <End Role="QUANTRI" EntitySet="QUANTRI" />
+      <End Role="KITHI" EntitySet="KITHI" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
