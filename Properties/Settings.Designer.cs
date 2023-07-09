@@ -26,7 +26,7 @@ namespace PhanMemThiTracNghiem.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-7BBQ7G5\\SQLEXPRESS;Initial Catalog=PHANMEMTHITN;Integrated Se" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DEVCODE1\\SQLEXPRESS;Initial Catalog=PHANMEMTHITRACNGHIEM;Integrated Se" +
             "curity=True")]
         public string PHANMEMTHITNConnectionString {
             get {
