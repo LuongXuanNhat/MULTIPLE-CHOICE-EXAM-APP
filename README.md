@@ -1,7 +1,7 @@
 # MULTIPLE-CHOICE-EXAM-APP
 <br/>
 <h2>
-Code C# with Entity Framework Data First , MSSQL 
+Code C# with Entity Framework Code First , MSSQL 
 </h2>
 
 <div > Hệ thống thi trắc nghiệm là một phần mềm cung cấp các câu hỏi trắc nghiệm dành cho các cá nhân, tổ chức có nhu cầu sử dụng, và đây cũng là một hình thức thi được ưa chuộng, phù hợp với thời đại công nghệ phát triển. Vượt trội hơn so với các hình thức thi trắc nghiệm truyền thống là bằng giấy, chấm thủ công mất nhiều thời gian và công sức cũng như công việc quản lý tài liệu khó khăn..vv.
