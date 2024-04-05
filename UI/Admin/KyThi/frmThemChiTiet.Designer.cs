@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle16 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle17 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle18 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
             this.labelMaKiThi = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.label1 = new System.Windows.Forms.Label();
@@ -68,7 +68,7 @@
             this.panel1.Controls.Add(this.labelMaKiThi);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(16, 41);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(509, 64);
             this.panel1.TabIndex = 0;
@@ -78,7 +78,7 @@
             this.labelMaKiThi.BackColor = System.Drawing.Color.Transparent;
             this.labelMaKiThi.Font = new System.Drawing.Font("Sitka Subheading", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelMaKiThi.Location = new System.Drawing.Point(137, 15);
-            this.labelMaKiThi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelMaKiThi.Margin = new System.Windows.Forms.Padding(4);
             this.labelMaKiThi.Name = "labelMaKiThi";
             this.labelMaKiThi.Size = new System.Drawing.Size(21, 37);
             this.labelMaKiThi.TabIndex = 1;
@@ -100,7 +100,7 @@
             this.panel2.Controls.Add(this.labelTenKiThi);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Location = new System.Drawing.Point(16, 112);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(509, 64);
             this.panel2.TabIndex = 0;
@@ -110,7 +110,7 @@
             this.labelTenKiThi.BackColor = System.Drawing.Color.Transparent;
             this.labelTenKiThi.Font = new System.Drawing.Font("Sitka Subheading", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTenKiThi.Location = new System.Drawing.Point(137, 15);
-            this.labelTenKiThi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelTenKiThi.Margin = new System.Windows.Forms.Padding(4);
             this.labelTenKiThi.Name = "labelTenKiThi";
             this.labelTenKiThi.Size = new System.Drawing.Size(21, 37);
             this.labelTenKiThi.TabIndex = 1;
@@ -132,7 +132,7 @@
             this.panel3.Controls.Add(this.cbMonThi);
             this.panel3.Controls.Add(this.label3);
             this.panel3.Location = new System.Drawing.Point(16, 183);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(509, 64);
             this.panel3.TabIndex = 0;
@@ -148,7 +148,7 @@
             this.cbMonThi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.cbMonThi.ItemHeight = 30;
             this.cbMonThi.Location = new System.Drawing.Point(137, 7);
-            this.cbMonThi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbMonThi.Margin = new System.Windows.Forms.Padding(4);
             this.cbMonThi.Name = "cbMonThi";
             this.cbMonThi.Size = new System.Drawing.Size(264, 36);
             this.cbMonThi.TabIndex = 1;
@@ -169,7 +169,7 @@
             this.panel4.Controls.Add(this.datetimeBD);
             this.panel4.Controls.Add(this.label4);
             this.panel4.Location = new System.Drawing.Point(16, 255);
-            this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(509, 64);
             this.panel4.TabIndex = 0;
@@ -181,14 +181,14 @@
             this.datetimeBD.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.datetimeBD.Format = System.Windows.Forms.DateTimePickerFormat.Time;
             this.datetimeBD.Location = new System.Drawing.Point(263, 7);
-            this.datetimeBD.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.datetimeBD.Margin = new System.Windows.Forms.Padding(4);
             this.datetimeBD.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.datetimeBD.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.datetimeBD.Name = "datetimeBD";
             this.datetimeBD.ShowUpDown = true;
             this.datetimeBD.Size = new System.Drawing.Size(214, 44);
             this.datetimeBD.TabIndex = 1;
-            this.datetimeBD.Value = new System.DateTime(2024, 1, 2, 1, 31, 0, 0);
+            this.datetimeBD.Value = new System.DateTime(2024, 1, 4, 1, 31, 0, 0);
             // 
             // label4
             // 
@@ -206,7 +206,7 @@
             this.panel5.Controls.Add(this.datetimeKT);
             this.panel5.Controls.Add(this.label5);
             this.panel5.Location = new System.Drawing.Point(16, 326);
-            this.panel5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel5.Margin = new System.Windows.Forms.Padding(4);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(509, 64);
             this.panel5.TabIndex = 0;
@@ -218,14 +218,14 @@
             this.datetimeKT.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.datetimeKT.Format = System.Windows.Forms.DateTimePickerFormat.Time;
             this.datetimeKT.Location = new System.Drawing.Point(263, 7);
-            this.datetimeKT.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.datetimeKT.Margin = new System.Windows.Forms.Padding(4);
             this.datetimeKT.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.datetimeKT.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.datetimeKT.Name = "datetimeKT";
             this.datetimeKT.ShowUpDown = true;
             this.datetimeKT.Size = new System.Drawing.Size(214, 44);
             this.datetimeKT.TabIndex = 1;
-            this.datetimeKT.Value = new System.DateTime(2024, 1, 2, 9, 53, 0, 0);
+            this.datetimeKT.Value = new System.DateTime(2024, 1, 4, 9, 53, 0, 0);
             this.datetimeKT.ValueChanged += new System.EventHandler(this.datetimeKT_ValueChanged);
             // 
             // label5
@@ -250,7 +250,7 @@
             this.guna2Button1.Font = new System.Drawing.Font("Sitka Subheading", 14.25F);
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
             this.guna2Button1.Location = new System.Drawing.Point(141, 489);
-            this.guna2Button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.guna2Button1.Margin = new System.Windows.Forms.Padding(4);
             this.guna2Button1.Name = "guna2Button1";
             this.guna2Button1.Size = new System.Drawing.Size(240, 55);
             this.guna2Button1.TabIndex = 1;
@@ -263,7 +263,7 @@
             this.panel6.Controls.Add(this.btnKiemTra);
             this.panel6.Controls.Add(this.label6);
             this.panel6.Location = new System.Drawing.Point(16, 398);
-            this.panel6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel6.Margin = new System.Windows.Forms.Padding(4);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(509, 64);
             this.panel6.TabIndex = 0;
@@ -289,7 +289,7 @@
             this.btnKiemTra.Font = new System.Drawing.Font("Sitka Subheading", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnKiemTra.ForeColor = System.Drawing.Color.White;
             this.btnKiemTra.Location = new System.Drawing.Point(227, 5);
-            this.btnKiemTra.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnKiemTra.Margin = new System.Windows.Forms.Padding(4);
             this.btnKiemTra.Name = "btnKiemTra";
             this.btnKiemTra.Size = new System.Drawing.Size(176, 55);
             this.btnKiemTra.TabIndex = 1;
@@ -309,29 +309,29 @@
             // 
             // dgvdemo
             // 
-            dataGridViewCellStyle16.BackColor = System.Drawing.Color.White;
-            this.dgvdemo.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle16;
-            dataGridViewCellStyle17.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle17.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle17.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle17.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle17.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvdemo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle17;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            this.dgvdemo.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvdemo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvdemo.ColumnHeadersHeight = 24;
             this.dgvdemo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
-            dataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle18.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle18.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle18.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle18.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle18.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvdemo.DefaultCellStyle = dataGridViewCellStyle18;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvdemo.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgvdemo.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             this.dgvdemo.Location = new System.Drawing.Point(533, 41);
-            this.dgvdemo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvdemo.Margin = new System.Windows.Forms.Padding(4);
             this.dgvdemo.Name = "dgvdemo";
             this.dgvdemo.RowHeadersVisible = false;
             this.dgvdemo.RowHeadersWidth = 51;
@@ -397,7 +397,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmThemChiTiet";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ThemChiTiet";
