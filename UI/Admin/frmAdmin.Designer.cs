@@ -131,17 +131,17 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.label27 = new System.Windows.Forms.Label();
             this.guna2Panel31 = new Guna.UI2.WinForms.Guna2Panel();
             this.dgvKiThi = new Guna.UI2.WinForms.Guna2DataGridView();
+            this.colSTT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colMaKiThi = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colTenKiThi = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colThoiGianBD = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colThoiGianKT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.guna2ControlBox5 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox6 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox7 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.label10 = new System.Windows.Forms.Label();
             this.labelAdmin = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.colSTT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colMaKiThi = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colTenKiThi = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colThoiGianBD = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colThoiGianKT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabPage3.SuspendLayout();
             this.guna2Panel16.SuspendLayout();
             this.guna2Panel17.SuspendLayout();
@@ -1366,9 +1366,9 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.tabPage4.Controls.Add(this.guna2Panel26);
             this.tabPage4.Controls.Add(this.dgvKiThi);
             this.tabPage4.Location = new System.Drawing.Point(184, 4);
-            this.tabPage4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage4.Margin = new System.Windows.Forms.Padding(4);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(4);
             this.tabPage4.Size = new System.Drawing.Size(1494, 782);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "QUẢN LÝ KÌ THI";
@@ -1483,15 +1483,15 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.dateKT.Checked = true;
             this.dateKT.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(99)))), ((int)(((byte)(222)))));
             this.dateKT.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.dateKT.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateKT.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateKT.Location = new System.Drawing.Point(224, 4);
-            this.dateKT.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateKT.Margin = new System.Windows.Forms.Padding(4);
             this.dateKT.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.dateKT.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.dateKT.Name = "dateKT";
             this.dateKT.Size = new System.Drawing.Size(228, 44);
             this.dateKT.TabIndex = 1;
-            this.dateKT.Value = new System.DateTime(2022, 10, 17, 17, 0, 30, 630);
+            this.dateKT.Value = new System.DateTime(2024, 9, 5, 0, 0, 0, 0);
             // 
             // label25
             // 
@@ -1518,15 +1518,15 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.dateBD.Checked = true;
             this.dateBD.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(99)))), ((int)(((byte)(222)))));
             this.dateBD.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.dateBD.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateBD.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateBD.Location = new System.Drawing.Point(224, 16);
-            this.dateBD.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dateBD.Margin = new System.Windows.Forms.Padding(4);
             this.dateBD.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.dateBD.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.dateBD.Name = "dateBD";
             this.dateBD.Size = new System.Drawing.Size(228, 44);
             this.dateBD.TabIndex = 1;
-            this.dateBD.Value = new System.DateTime(2022, 10, 17, 17, 0, 30, 630);
+            this.dateBD.Value = new System.DateTime(2024, 4, 5, 0, 0, 0, 0);
             // 
             // label26
             // 
@@ -1654,6 +1654,46 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.dgvKiThi.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKiThi_CellClick);
             this.dgvKiThi.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvKiThi_CellDoubleClick);
             // 
+            // colSTT
+            // 
+            this.colSTT.FillWeight = 53.47594F;
+            this.colSTT.HeaderText = "STT";
+            this.colSTT.MinimumWidth = 6;
+            this.colSTT.Name = "colSTT";
+            this.colSTT.ReadOnly = true;
+            // 
+            // colMaKiThi
+            // 
+            this.colMaKiThi.FillWeight = 111.631F;
+            this.colMaKiThi.HeaderText = "Mã kì thi";
+            this.colMaKiThi.MinimumWidth = 6;
+            this.colMaKiThi.Name = "colMaKiThi";
+            this.colMaKiThi.ReadOnly = true;
+            // 
+            // colTenKiThi
+            // 
+            this.colTenKiThi.FillWeight = 111.631F;
+            this.colTenKiThi.HeaderText = "Tên kì thi";
+            this.colTenKiThi.MinimumWidth = 6;
+            this.colTenKiThi.Name = "colTenKiThi";
+            this.colTenKiThi.ReadOnly = true;
+            // 
+            // colThoiGianBD
+            // 
+            this.colThoiGianBD.FillWeight = 111.631F;
+            this.colThoiGianBD.HeaderText = "Thời gian bắt đầu";
+            this.colThoiGianBD.MinimumWidth = 6;
+            this.colThoiGianBD.Name = "colThoiGianBD";
+            this.colThoiGianBD.ReadOnly = true;
+            // 
+            // colThoiGianKT
+            // 
+            this.colThoiGianKT.FillWeight = 111.631F;
+            this.colThoiGianKT.HeaderText = "Thời gian kết thúc";
+            this.colThoiGianKT.MinimumWidth = 6;
+            this.colThoiGianKT.Name = "colThoiGianKT";
+            this.colThoiGianKT.ReadOnly = true;
+            // 
             // guna2ControlBox5
             // 
             this.guna2ControlBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -1695,7 +1735,7 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.label10.Font = new System.Drawing.Font("Sitka Subheading", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(197, 2);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(109, 35);
+            this.label10.Size = new System.Drawing.Size(107, 33);
             this.label10.TabIndex = 6;
             this.label10.Text = "Quản trị:";
             // 
@@ -1705,7 +1745,7 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.labelAdmin.Font = new System.Drawing.Font("Sitka Subheading", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelAdmin.Location = new System.Drawing.Point(311, 2);
             this.labelAdmin.Name = "labelAdmin";
-            this.labelAdmin.Size = new System.Drawing.Size(33, 35);
+            this.labelAdmin.Size = new System.Drawing.Size(33, 33);
             this.labelAdmin.TabIndex = 6;
             this.labelAdmin.Text = "...";
             // 
@@ -1721,46 +1761,6 @@ namespace PhanMemThiTracNghiem.UI.Admin
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Đăng xuất";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
-            // 
-            // colSTT
-            // 
-            this.colSTT.FillWeight = 53.47594F;
-            this.colSTT.HeaderText = "STT";
-            this.colSTT.MinimumWidth = 6;
-            this.colSTT.Name = "colSTT";
-            this.colSTT.ReadOnly = true;
-            // 
-            // colMaKiThi
-            // 
-            this.colMaKiThi.FillWeight = 111.631F;
-            this.colMaKiThi.HeaderText = "Mã kì thi";
-            this.colMaKiThi.MinimumWidth = 6;
-            this.colMaKiThi.Name = "colMaKiThi";
-            this.colMaKiThi.ReadOnly = true;
-            // 
-            // colTenKiThi
-            // 
-            this.colTenKiThi.FillWeight = 111.631F;
-            this.colTenKiThi.HeaderText = "Tên kì thi";
-            this.colTenKiThi.MinimumWidth = 6;
-            this.colTenKiThi.Name = "colTenKiThi";
-            this.colTenKiThi.ReadOnly = true;
-            // 
-            // colThoiGianBD
-            // 
-            this.colThoiGianBD.FillWeight = 111.631F;
-            this.colThoiGianBD.HeaderText = "Thời gian bắt đầu";
-            this.colThoiGianBD.MinimumWidth = 6;
-            this.colThoiGianBD.Name = "colThoiGianBD";
-            this.colThoiGianBD.ReadOnly = true;
-            // 
-            // colThoiGianKT
-            // 
-            this.colThoiGianKT.FillWeight = 111.631F;
-            this.colThoiGianKT.HeaderText = "Thời gian kết thúc";
-            this.colThoiGianKT.MinimumWidth = 6;
-            this.colThoiGianKT.Name = "colThoiGianKT";
-            this.colThoiGianKT.ReadOnly = true;
             // 
             // frmAdmin
             // 

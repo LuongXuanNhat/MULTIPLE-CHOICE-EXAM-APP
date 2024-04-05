@@ -179,16 +179,16 @@
             this.datetimeBD.Checked = true;
             this.datetimeBD.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(99)))), ((int)(((byte)(233)))));
             this.datetimeBD.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.datetimeBD.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.datetimeBD.Location = new System.Drawing.Point(263, 7);
+            this.datetimeBD.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.datetimeBD.Location = new System.Drawing.Point(227, 7);
             this.datetimeBD.Margin = new System.Windows.Forms.Padding(4);
             this.datetimeBD.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.datetimeBD.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.datetimeBD.Name = "datetimeBD";
             this.datetimeBD.ShowUpDown = true;
-            this.datetimeBD.Size = new System.Drawing.Size(214, 44);
+            this.datetimeBD.Size = new System.Drawing.Size(250, 44);
             this.datetimeBD.TabIndex = 1;
-            this.datetimeBD.Value = new System.DateTime(2024, 1, 4, 1, 31, 0, 0);
+            this.datetimeBD.Value = new System.DateTime(2024, 4, 5, 1, 30, 0, 0);
             // 
             // label4
             // 
@@ -216,16 +216,16 @@
             this.datetimeKT.Checked = true;
             this.datetimeKT.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(99)))), ((int)(((byte)(233)))));
             this.datetimeKT.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.datetimeKT.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.datetimeKT.Location = new System.Drawing.Point(263, 7);
+            this.datetimeKT.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.datetimeKT.Location = new System.Drawing.Point(227, 7);
             this.datetimeKT.Margin = new System.Windows.Forms.Padding(4);
             this.datetimeKT.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.datetimeKT.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.datetimeKT.Name = "datetimeKT";
             this.datetimeKT.ShowUpDown = true;
-            this.datetimeKT.Size = new System.Drawing.Size(214, 44);
+            this.datetimeKT.Size = new System.Drawing.Size(250, 44);
             this.datetimeKT.TabIndex = 1;
-            this.datetimeKT.Value = new System.DateTime(2024, 1, 4, 9, 53, 0, 0);
+            this.datetimeKT.Value = new System.DateTime(2024, 4, 5, 23, 0, 0, 0);
             this.datetimeKT.ValueChanged += new System.EventHandler(this.datetimeKT_ValueChanged);
             // 
             // label5
